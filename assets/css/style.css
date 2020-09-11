@@ -1,0 +1,16 @@
+
+#titulo{
+    color: indigo;
+    font-size: 70px;
+}
+h4{
+    color: blueviolet;
+}
+
+input{
+    color:gray;
+}
+img{
+    width: 5%;
+    align-content: flex-start;
+}
